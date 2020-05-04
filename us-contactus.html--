@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="
+Global City Lab,Global Cities,City Index,Global mayor,urban studies,city brand,urban planning,city design,urban ecology,city management,urban finance,Mayor Forum" />
+<meta name="description" content="" />
+<title>Contact us</title>
+<link rel="stylesheet" type="text/css" href="images/cn-style.css">
+
+
+</head>
+
+<body>
+<div id="head">
+<div class="head960">
+<div class="logo"><a href="us-index.html"><img src="images/logo.jpg" width="240" height="70" alt="" /></a></div>
+<div class="flag"><table width="100%" border="0">
+	<tr><td style="height: 1px;"></td></tr>
+  <tr>
+    <td height="40"><a href="index.html"><img class="zhezhao" src="images/cn.gif" width="16" height="11" title="中文版" alt="中文版"/></a></td>
+    <td height="40"  width="20"><a href="us-index.html"><img src="images/us.gif" width="16" height="11" title="English" alt="English" /></a></td>   </tr>
+  
+</table>
+</div>
+</div>
+</div>
+
+
+
+<div id="container">
+
+<div id="nav">
+<div class="topnav">
+<ul>
+<li><a href="us-aboutus.html" >About us</a></li>
+<li><a href="us-series.html" >Services</a></li>
+<li><a href="us-method.html" >Methodology</a> </li>
+<li><a href="us-report.html" >Research report</a></li>
+<li class="click"><a href="us-contactus.html" >Contact us</a></li></ul>
+</div>
+</div>
+
+<div id="content">
+<div class="content960">
+  <h2>Contact us</h2>
+  <div style="margin-top:10px; margin-bottom:10px;"><img src="images/h2-bg.jpg" width="600" height="15" /></div>
+  <div class="content960-left">
+<p>Global City Lab</p>
+<p>北京地址：北京市建国门内大街18号恒基中心办公楼一座1412</p>
+<p>纽约地址：44 Wall Street, Suit 1228, New York NY 10005</p>
+<p>电子邮件：globalcitylab@xhf.com</p>
+</div>
+<div class="content960-right"><img src="images/contactusbg.jpg" width="310"  /></div>
+<div style="clear:both;"></div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+</div>
+
+
+<div id="foot">
+<div class="footer">
+<span>Copyright © 2019 全球互动网络有限公司 Global Interactive Group </span></div>
+
+
+</div>
+
+</body>
+</html>
